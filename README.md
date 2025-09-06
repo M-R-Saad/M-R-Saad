@@ -54,9 +54,11 @@
 
 ## 🗒️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-R-Saad&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-R-Saad&show_icons=true&theme=radical" alt="GitHub stats"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-R-Saad&layout=donut" alt="GitHub stats"  /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-R-Saad&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-R-Saad&layout=compact&theme=tokyonight" alt="Top Language" width="355" />  
 </p>
 
 ---
@@ -64,13 +66,13 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/muhaiminul-rashid-shad-277562312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:mshad221487@bscse.uiu.ac.bd">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/M-R-Saad">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
