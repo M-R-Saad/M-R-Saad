@@ -54,9 +54,9 @@
 
 ## 🗒️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-R-Saad&show_icons=true&theme=radical" alt="GitHub stats"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=M-R-Saad&show_icons=true&theme=radical" alt="GitHub stats"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-R-Saad&layout=donut" alt="GitHub stats"  /> -->
-  <br/>
+<!--   <br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-R-Saad&theme=radical" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-R-Saad&layout=compact&theme=tokyonight" alt="Top Language" width="355" />  
 </p>
