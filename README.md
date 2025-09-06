@@ -1,39 +1,65 @@
-# Hi there, I'm Shad 👋  
+# Hello, I'm Shad :D 
 
-🎓 Computer Science undergraduate at United International University (Bangladesh)  
-💻 Passionate about Software Development, Web Technologies, and Machine Learning  
-📖 Research interests include Computer Vision and AI, with plans to publish academic papers in the future  
-🚀 Always eager to learn, adapt, and contribute to real-world projects  
+# 👋 About Me
+
+🎓 Computer Science graduate from United International University (Bangladesh)  
+💻 Passionate about Software Development, Web Technologies, Game Development and Machine Learning  
+📖 Research interests include Machine Learning & Deep Learning, with plans to publish academic papers in the future  
+🚀 Always eager to learn, adapt, and contribute to real-world projects 
+
+Currently exploring game development as i do have plan to build one in the future!
+---
+
+# 🛠️ Skills & Technologies  
+
+<p align="start">
+  <b>Programming Languages:<b/>
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
+  <br/>
+    
+  <b>Web Development:<b/>
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,mysql,mongodb" />
+  
+  <b>Tools & Technologies:<b/>
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" />
+
+  <b>AI & ML:<b/>
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,pytorch" />
+</p>
 
 ---
 
-## 🔧 Technologies & Tools  
-- **Programming:** C, C++, Java, Python  
-- **Web Development:** HTML, CSS, JavaScript, PHP, Tailwind CSS, React.js (basic)  
-- **Databases:** MySQL, MongoDB  
-- **Machine Learning & Data Science:** NumPy, Pandas, PyTorch, Computer Vision basics  
-- **Tools & Design:** Git, GitHub, Figma, Adobe Illustrator  
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
-## 📌 Projects  
-- [GivingTree](https://github.com/M-R-Saad/GivingTree) – Crowdfunding desktop app (JavaFX, MySQL)  
-- [RaiseUp](https://github.com/M-R-Saad/RaiseUp) – Web-based crowdfunding platform (PHP, MySQL)  
-- [GearSync](https://github.com/M-R-Saad/GearSync) – Vehicle repair & parts management system (JavaFX, MySQL)  
+# 🌍 Connect With Me  
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 📊 GitHub Stats  
-![Shad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-R-Saad&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-R-Saad&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhaiminul-rashid-shad-277562312/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/M-R-Saad)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshad221487@bscse.uiu.ac.bd)  
 
 
 <!--
