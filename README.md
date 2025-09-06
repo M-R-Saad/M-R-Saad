@@ -1,43 +1,43 @@
 # Hello, I'm Shad :D 
 
-# 👋 About Me
+## ℹ️ About Me
 
 🎓 Computer Science graduate from United International University (Bangladesh)  
 💻 Passionate about Software Development, Web Technologies, Game Development and Machine Learning  
 📖 Research interests include Machine Learning & Deep Learning, with plans to publish academic papers in the future  
 🚀 Always eager to learn, adapt, and contribute to real-world projects 
 
-Currently exploring game development as i do have plan to build one in the future!
----
+#### Currently exploring game development as i do have plan to build one in the future!
+---  
 
-# 🛠️ Skills & Technologies  
+## ⚙ Skills & Technologies  
 
-<p align="start">
-  <b>Programming Languages:<b/>
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
-  <br/>
-    
-  <b>Web Development:<b/>
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,mysql,mongodb" />
+  <b>Programming Languages:</b>  
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
+  </p>
   
-  <b>Tools & Technologies:<b/>
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" />
-
-  <b>AI & ML:<b/>
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,pytorch" />
-</p>
+  <b>Web Development:</b>  
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,mysql,mongodb" />
+  </p>
+  
+  <b>Tools & Technologies:</b>  
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" />
+  </p>
+  
+  <b>AI & ML:</b>  
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="48" height="48"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🗒️ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
   <br/>
@@ -46,7 +46,7 @@ Currently exploring game development as i do have plan to build one in the futur
 
 ---
 
-# 🌍 Connect With Me  
+## 📫 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
