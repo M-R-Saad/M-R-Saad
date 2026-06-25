@@ -126,7 +126,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-[🌐 Live Site](dineflow-client.vercel.app) · [📁 Client Repo](https://github.com/M-R-Saad/DineFlow-client) · [📁 Server Repo](https://github.com/M-R-Saad/DineFlow-server)
+[🌐 Live Site](https://dineflow-client.vercel.app) · [📁 Client Repo](https://github.com/M-R-Saad/DineFlow-client) · [📁 Server Repo](https://github.com/M-R-Saad/DineFlow-server)
 
 ---
 
@@ -142,7 +142,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[🌐 Live Site](uplink-1x1.vercel.app) · [📁 Repo](https://github.com/M-R-Saad/UpLink)
+[🌐 Live Site](https://uplink-1x1.vercel.app) · [📁 Repo](https://github.com/M-R-Saad/UpLink)
 
 ---
 
